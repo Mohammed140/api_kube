@@ -68,4 +68,3 @@ jobs:
           manifests: |
             k8s/mongo/deployment.yaml
             k8s/mongo/service.yaml
-          
